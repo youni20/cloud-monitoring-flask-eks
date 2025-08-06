@@ -25,8 +25,7 @@ cloud-monitoring-app/
 ├── Dockerfile             # Container build file
 ├── requirements.txt       # Python dependencies
 ├── eks.py                 # (Optional) EKS helper script
-├── deployment.yaml        # Kubernetes Deployment config
-├── service.yaml           # Kubernetes Service config
+├── ecr.py                 # Kubernetes Deployment config
 └── README.md              # You're here!
 
 ```
