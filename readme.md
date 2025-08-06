@@ -4,6 +4,8 @@ A lightweight cloud infrastructure monitoring app built with **Flask**, containe
 
 ---
 
+![alt text](image.png)
+
 ## 🔧 Features
 
 - 🔍 View real-time CPU, memory, and disk usage
